@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://skcoolingpoint.vercel.app/sitemap.xml
